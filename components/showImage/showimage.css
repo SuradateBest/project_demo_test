@@ -1,0 +1,113 @@
+.container {
+  max-width: 1960px;
+  margin: 0 auto;
+}
+
+.grid-showimage {
+  display: grid;
+  max-width: 960px;
+  grid-template-columns: 200px 150px 250px;
+  justify-content: center;
+  column-gap: 5px;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.followshow button {
+  background-color: #0099FF;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.followshow button:hover {
+  background-color: #D1F2EB;
+  color: black;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.header span {
+  color: #85C1E9;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.button-cant-edit {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: 1px solid rgb(2, 153, 2);
+  cursor: not-allowed;
+  font-size: medium;
+  width: 100px;
+}
+
+.button-edit {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: 1px solid rgb(2, 153, 2);
+  cursor: pointer;
+  font-size: medium;
+  width: 100px;
+}
+
+.button-delete {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  border: 1px solid #f44336;
+  width: 100px;
+  margin-left: 20px;
+}
+
+.button-delete:hover {
+  background-color: rgb(243, 184, 184);
+  color: black;
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  border: 1px solid #f44336;
+  width: 100px;
+  margin-left: 20px;
+}
+
+.button-delete1 {
+  background-color: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  border: 1px solid #f44336;
+  width: 100px;
+  margin-left: 20px;
+  height: 40px;
+}
+
+.button-delete1:hover {
+  background-color: rgb(243, 184, 184);
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  border: 1px solid #f44336;
+  width: 100px;
+  margin-left: 20px;
+  height: 40px;
+}
+
+.button-center {
+  justify-items: center;
+}

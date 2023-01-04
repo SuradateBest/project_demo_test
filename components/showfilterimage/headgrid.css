@@ -1,0 +1,8 @@
+.grid-head-filter {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    justify-content: center;
+    column-gap: 5px;
+    margin-top: 10px;
+    padding: 20px;
+}

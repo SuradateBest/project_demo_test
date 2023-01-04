@@ -1,0 +1,70 @@
+.container {
+    max-width: 1960px;
+    margin: 0 auto;
+
+}
+
+.container-card {
+    display: table;
+    max-width: 960px;
+    margin-left: 100px;
+
+
+}
+
+.container-card1 {
+    display: table;
+    max-width: 960px;
+
+
+
+
+}
+
+.slick-list {
+    margin: 0 100px;
+}
+
+.slick-slide>div {
+    padding: 0 5px;
+}
+
+@media only screen and (max-width:1200px) {
+    .res-margin h1 {
+        margin-left: -350px;
+    }
+
+    .res-margin button {
+        margin-left: -350px;
+    }
+}
+
+@media only screen and (max-width:1420px) {
+    .res-margin h1 {
+        margin-left: 100px;
+    }
+
+    .res-margin button {
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width:1620px) {
+    .res-margin h1 {
+        margin-left: 100px;
+    }
+
+    .res-margin button {
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width:1920px) {
+    .res-margin h1 {
+        margin-left: 100px;
+    }
+
+    .res-margin button {
+        margin-left: 100px;
+    }
+}

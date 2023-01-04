@@ -1,0 +1,17 @@
+input#file-input{
+    display: none;
+}
+input#file-input + label{
+    background-color: burlywood;
+    padding: 8px;
+    color: #fff;
+    border: 2px solid #9ec3ff;
+    border-radius: 9px;
+    margin-left: 20px;
+}
+input#file-input + label:hover{
+    background-color: #3b73ce;
+    border-color: burlywood;
+    color: #fff;
+    cursor: pointer;
+}

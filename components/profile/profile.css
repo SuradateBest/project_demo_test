@@ -1,0 +1,46 @@
+.container{
+    max-width: 1960px;
+    margin: 0 auto;
+}
+
+
+.image img {
+    margin-left: 60px;
+}
+
+.padding-left-80px{
+    padding-left: 80px;
+}
+
+.grid-con{
+    display: grid;
+    column-gap:10px;
+    grid-template-columns: 200px 200px 50px;
+    padding: 10px;
+}
+
+.setting button{
+    background-color: #9A9483;
+    color: white;
+    margin: 8px 0;
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    width: 120px;
+    border: 1px solid black;
+    
+  }
+
+  .setting button:hover{
+      background-color: #F2F3F4;
+      color: #9A9483;
+  }
+
+  .margin-left-40{
+      margin-left: 40px;
+  }
+  .margin-left-10{
+    margin-left: 10px;
+}
+
+ 

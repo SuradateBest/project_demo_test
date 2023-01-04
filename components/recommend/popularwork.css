@@ -1,0 +1,50 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+
+.container-card {
+    display: table;
+    max-width: 960;
+    margin-left: 100px;
+
+
+}
+
+.container-card1 {
+    display: table;
+    max-width: 960;
+    margin-left: 160px;
+
+
+}
+
+.slick-list {
+    margin: 0 100px;
+}
+
+.slick-slide>div {
+    padding: 0 5px;
+}
+
+.button-show {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.button-show:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.style-icon {
+    z-index: 111;
+}

@@ -1,0 +1,79 @@
+.container {
+    max-width: 1960px;
+    margin: 0 auto;
+}
+
+.banner-bg {
+    height: 200px;
+    background: url("../../assets/img/head1.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.banner-text {
+    color: black;
+    text-align: center;
+}
+
+.banner-bg-pf {
+    max-height: 100%;
+    background: url("../../assets/img/head2.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con-pf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.banner-bg-up {
+    max-height: 100%;
+    background: url("../../assets/img/head3.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con-up {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.banner-ed {
+    max-height: 100%;
+    background: url("../../assets/img/head4.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con-ed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.banner-show {
+    height: 200px;
+    background: url("../../assets/img/head5.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con-show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}

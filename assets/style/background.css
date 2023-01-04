@@ -1,0 +1,23 @@
+.background-auth {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    z-index: -90;
+}
+
+.background-regis {
+    background-image: url("../img/bg3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    z-index: -90;
+}
+
+.background-detail {
+    background-image: url("../img/bg5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 850px;
+    z-index: -90;
+}
